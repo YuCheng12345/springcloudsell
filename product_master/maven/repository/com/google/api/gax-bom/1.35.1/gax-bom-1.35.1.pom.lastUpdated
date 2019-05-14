@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 14 20:09:28 CST 2019
+https\://repo.spring.io/release/.error=
+@default-spring-milestones-https\://repo.spring.io/libs-milestone-local/.lastUpdated=1557835767747
+https\://repo.maven.apache.org/maven2/.lastUpdated=1557835768927
+https\://repo.spring.io/libs-milestone-local/.error=Could not transfer artifact com.google.api\:gax-bom\:pom\:1.35.1 from/to spring-milestones (https\://repo.spring.io/libs-milestone-local)\: Connect to repo.spring.io\:443 [repo.spring.io/35.241.58.96] failed\: Connection timed out (Connection timed out)
+https\://repo.spring.io/release/.lastUpdated=1557835768534
